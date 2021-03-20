@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trab02</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="textview">This is bob</string>
+    <string name="todo">TODO</string>
+    <string name="e_mail_ou_senha_incorreto">E-mail ou senha incorreto</string>
+</resources>
